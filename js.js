@@ -10,7 +10,7 @@ function test(min) {
 
         console.clear()
 
-        alert("pa")
+        alert("nie chce cie widziec")
 
     }
 
