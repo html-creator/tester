@@ -10,7 +10,7 @@ function test(min) {
 
         console.clear()
 
-        alert("nie lubiê maluchów")
+        alert("pa")
 
     }
 
