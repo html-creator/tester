@@ -20,3 +20,12 @@ function getAge() {
 	mikro = Math.floor((Math.random() * 20) + 5);
 	test(mikro)
 }
+function red() {
+    document.body.style.backgroundColor = "red";
+    setTimeout(blue, 1000)
+}
+function blue() {
+    document.body.style.backgroundColor = "#009";
+    setTimeout(red, 1000)
+}
+blue()
